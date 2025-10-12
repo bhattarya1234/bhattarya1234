@@ -42,12 +42,12 @@ Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity i
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### ☁️ Dev / Temporary Hosting
 
 ![Python 3 Hosting](https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/Ngrok-29C1FF?style=for-the-badge&logo=ngrok&logoColor=white)
+![Cloudflare Temporary](https://img.shields.io/badge/Cloudflare-FF8800?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ## 📊 GitHub Stats
 
