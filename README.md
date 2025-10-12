@@ -1,4 +1,4 @@
-                #  👋 Hi, I'm Arya
+                                                                   👋 Hi, I'm Arya
 
 Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity into code 💻
 
