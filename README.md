@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arya                                        
+# 👋 Hi, I'm Arya
 
 Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity into code 💻
 
@@ -27,10 +27,8 @@ Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity i
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhattarya1234&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhattarya1234&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhattarya1234&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhattarya1234&theme=tokyonight&hide_border=true)  
 
 ---
 
