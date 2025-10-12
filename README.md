@@ -1,36 +1,141 @@
-<h1 align="center"># 👋 Yo, I'm Arya — Code Wizard 🧙‍♂️💻 Turning caffeine ☕ into code 💥 and bugs 🐛 into “features.” Aarya Bhatt</h1>
-<h3 align="center">### 🌄 A Passionate Frontend Developer from Nepal 🇳🇵</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Arya Bhatt — Full-Stack Portfolio</title>
+<!-- Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<!-- FontAwesome for icons -->
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+<style>
+  /* ===== Global Styles ===== */
+  body {
+    font-family: 'Roboto', sans-serif;
+    background: #1e1e2f;
+    color: #cdd6f4;
+    margin: 0;
+    padding: 0;
+  }
+  a { text-decoration: none; color: #89b4fa; }
+  a:hover { color: #f38ba8; }
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhattarya1234" alt="bhattarya1234" /></a> </p>
+  /* ===== Container ===== */
+  .container { max-width: 1000px; margin: auto; padding: 2rem; }
 
-<p align="left"> <a href="https://twitter.com/aryabhatt298280" target="blank"><img src="https://img.shields.io/twitter/follow/aryabhatt298280?logo=twitter&style=for-the-badge" alt="aryabhatt298280" /></a> </p>
+  /* ===== Header ===== */
+  header { text-align: center; padding-bottom: 2rem; }
+  header h1 { font-size: 3rem; color: #f5c2e7; margin-bottom: 0.5rem; }
+  header p { font-size: 1.2rem; color: #89b4fa; }
 
-- ## 💼 Work & Vibes **Personal projects using JavaScript and Node.js to sharpen my skills.**
+  /* ===== Section ===== */
+  section { margin-bottom: 2rem; }
+  h2 { color: #f5c2e7; border-bottom: 2px solid #89b4fa; padding-bottom: 0.3rem; margin-bottom: 1rem; }
 
-- 🌱 I’m currently learning **Git, Docker, and Node.js — building the foundation for full-stack projects.**
+  /* ===== Cards ===== */
+  .card-container { display: flex; flex-wrap: wrap; gap: 1rem; }
+  .card {
+    background: #313244;
+    padding: 1rem;
+    border-radius: 10px;
+    flex: 1 1 250px;
+    transition: transform 0.3s;
+  }
+  .card:hover { transform: translateY(-5px); }
 
-- ## 👯 **Wanna collab?** **Understanding Node.js concepts and improving project workflow while building real-world apps.**
+  /* ===== Socials ===== */
+  .socials a {
+    display: inline-block;
+    margin: 0 0.5rem;
+    font-size: 1.5rem;
+    transition: color 0.3s;
+  }
+  .socials a:hover { color: #f38ba8; }
 
-- 👨‍💻 All of my projects are available at [https://github.com/bhattarya1234](https://github.com/bhattarya1234)
+  /* ===== Tech Stack ===== */
+  .tech-stack img { margin: 0.3rem; height: 40px; }
 
-- 💬 Ask me about **JavaScript, React, or basic backend concepts.**
+  /* ===== GitHub Stats & Memes ===== */
+  .stats img, .meme img { width: 100%; border-radius: 10px; margin-bottom: 1rem; }
 
-- 📫 How to reach me **bhattarya190@gmail.com**
+  /* ===== Footer ===== */
+  footer { text-align: center; padding: 2rem 0; color: #89b4fa; font-size: 0.9rem; }
+</style>
+</head>
+<body>
+<div class="container">
 
-- ⚡ Fun fact **I break things just to figure out how to rebuild them better. 😎**
+  <!-- Header -->
+  <header>
+    <h1>👋 Hi, I'm Arya</h1>
+    <p>Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity into code 💻</p>
+  </header>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aryabhatt298280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryabhatt298280" height="30" width="40" /></a>
-<a href="https://instagram.com/shad0w_mistx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shad0w_mistx" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aryaxploit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryaxploit" height="30" width="40" /></a>
-</p>
+  <!-- Work & Learning -->
+  <section>
+    <h2>💼 Work & Learning</h2>
+    <div class="card-container">
+      <div class="card">
+        <h3>🔭 Currently Building</h3>
+        <p>Personal projects using <b>JavaScript</b>, <b>React</b>, and <b>Node.js</b></p>
+      </div>
+      <div class="card">
+        <h3>🌱 Currently Learning</h3>
+        <p><b>Git</b>, <b>Docker</b>, and <b>Node.js</b> — full-stack foundation</p>
+      </div>
+      <div class="card">
+        <h3>💬 Ask Me About</h3>
+        <p><b>JavaScript</b>, <b>React</b>, backend basics</p>
+      </div>
+      <div class="card">
+        <h3>⚡ Fun Fact</h3>
+        <p>I break things just to rebuild them better 😎</p>
+      </div>
+    </div>
+  </section>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  <!-- Socials -->
+  <section>
+    <h2>🌐 Socials</h2>
+    <div class="socials">
+      <a href="https://facebook.com/AryaBhattZeroLag" target="_blank"><i class="fab fa-facebook"></i></a>
+      <a href="https://instagram.com/shad0w_mistx" target="_blank"><i class="fab fa-instagram"></i></a>
+      <a href="https://pinterest.com/bhattarya190" target="_blank"><i class="fab fa-pinterest"></i></a>
+      <a href="https://twitter.com/AryaBhatt298280" target="_blank"><i class="fab fa-twitter"></i></a>
+    </div>
+  </section>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhattarya1234&show_icons=true&locale=en&layout=compact" alt="bhattarya1234" /></p>
+  <!-- Tech Stack -->
+  <section>
+    <h2>💻 Tech Stack</h2>
+    <div class="tech-stack">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+    </div>
+  </section>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhattarya1234&show_icons=true&locale=en" alt="bhattarya1234" /></p>
+  <!-- GitHub Stats -->
+  <section class="stats">
+    <h2>📊 GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=bhattarya1234&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhattarya1234&theme=tokyonight&hide_border=true" />
+  </section>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhattarya1234&" alt="bhattarya1234" /></p>
+  <!-- Meme -->
+  <section class="meme">
+    <h2>😂 Random Dev Meme</h2>
+    <img src="https://random-memer.herokuapp.com/" />
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    &copy; 2025 Arya Bhatt — Made with ❤️ and code
+  </footer>
+
+</div>
+</body>
+</html>
