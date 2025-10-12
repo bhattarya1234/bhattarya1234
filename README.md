@@ -44,6 +44,11 @@ Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity i
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
+### ☁️ Dev / Temporary Hosting
+
+![Python 3 Hosting](https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ngrok](https://img.shields.io/badge/Ngrok-29C1FF?style=for-the-badge&logo=ngrok&logoColor=white)
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhattarya1234&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
