@@ -1,112 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Arya Bhatt — Full-Stack Portfolio</title>
-<!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-<!-- FontAwesome -->
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-<style>
-  body { font-family: 'Roboto', sans-serif; background: #1e1e2f; color: #cdd6f4; margin: 0; padding: 0; }
-  a { text-decoration: none; color: #89b4fa; } a:hover { color: #f38ba8; }
+<h1 style="color:#f5c2e7; text-align:center;">👋 Hi, I'm Arya</h1>
+<p style="color:#89b4fa; text-align:center; font-size:16px;">
+Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity into code 💻
+</p>
 
-  .container { max-width: 1000px; margin: auto; padding: 2rem; }
-  header { text-align: center; padding-bottom: 2rem; }
-  header h1 { font-size: 3rem; color: #f5c2e7; margin-bottom: 0.5rem; }
-  header p { font-size: 1.2rem; color: #89b4fa; }
+---
 
-  section { margin-bottom: 2rem; }
-  h2 { color: #f5c2e7; border-bottom: 2px solid #89b4fa; padding-bottom: 0.3rem; margin-bottom: 1rem; }
+<h2 style="color:#f5c2e7;">💼 Work & Learning</h2>
 
-  .card-container { display: flex; flex-wrap: wrap; gap: 1rem; }
-  .card { background: #313244; padding: 1rem; border-radius: 10px; flex: 1 1 250px; transition: transform 0.3s; }
-  .card:hover { transform: translateY(-5px); }
+<ul>
+<li><b>🔭 Currently Building:</b> Personal projects using <b>JavaScript</b>, <b>React</b>, and <b>Node.js</b></li>
+<li><b>🌱 Currently Learning:</b> <b>Git</b>, <b>Docker</b>, <b>Node.js</b> — full-stack foundation</li>
+<li><b>💬 Ask Me About:</b> <b>JavaScript</b>, <b>React</b>, backend basics</li>
+<li><b>⚡ Fun Fact:</b> I break things just to rebuild them better 😎</li>
+</ul>
 
-  .socials a { display: inline-block; margin: 0 0.5rem; font-size: 1.5rem; transition: color 0.3s; }
-  .socials a:hover { color: #f38ba8; }
+---
 
-  .tech-stack img { margin: 0.3rem; height: 40px; }
-  .stats img, .meme img { width: 100%; border-radius: 10px; margin-bottom: 1rem; }
-  footer { text-align: center; padding: 2rem 0; color: #89b4fa; font-size: 0.9rem; }
-</style>
-</head>
-<body>
+<h2 style="color:#f5c2e7;">🌐 Socials</h2>
 
-<div class="container">
+<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-<!-- Header -->
-<header>
-  <h1>👋 Hi, I'm Arya</h1>
-  <p>Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity into code 💻</p>
-</header>
+---
 
-<!-- Work & Learning -->
-<section>
-  <h2>💼 Work & Learning</h2>
-  <div class="card-container">
-    <div class="card">
-      <h3>🔭 Currently Building</h3>
-      <p>Personal projects using <b>JavaScript</b>, <b>React</b>, and <b>Node.js</b></p>
-    </div>
-    <div class="card">
-      <h3>🌱 Currently Learning</h3>
-      <p><b>Git</b>, <b>Docker</b>, <b>Node.js</b> — full-stack foundation</p>
-    </div>
-    <div class="card">
-      <h3>💬 Ask Me About</h3>
-      <p><b>JavaScript</b>, <b>React</b>, backend basics</p>
-    </div>
-    <div class="card">
-      <h3>⚡ Fun Fact</h3>
-      <p>I break things just to rebuild them better 😎</p>
-    </div>
-  </div>
-</section>
+<h2 style="color:#f5c2e7;">💻 Tech Stack</h2>
 
-<!-- Socials -->
-<section>
-  <h2>🌐 Socials</h2>
-  <div class="socials">
-    <a href="#"><i class="fab fa-facebook"></i></a>
-    <a href="#"><i class="fab fa-instagram"></i></a>
-    <a href="#"><i class="fab fa-pinterest"></i></a>
-    <a href="#"><i class="fab fa-twitter"></i></a>
-  </div>
-</section>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
 
-<!-- Tech Stack -->
-<section>
-  <h2>💻 Tech Stack</h2>
-  <div class="tech-stack">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
-  </div>
-</section>
+---
 
-<!-- GitHub Stats -->
-<section class="stats">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=bhattarya1234&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhattarya1234&theme=tokyonight&hide_border=true">
-</section>
+<h2 style="color:#f5c2e7;">📊 GitHub Stats</h2>
 
-<!-- Meme -->
-<section class="meme">
-  <h2>😂 Random Dev Meme</h2>
-  <img src="https://random-memer.herokuapp.com/">
-</section>
+<img src="https://github-readme-stats.vercel.app/api?username=bhattarya1234&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhattarya1234&theme=tokyonight&hide_border=true">
 
-<!-- Footer -->
-<footer>
-  &copy; 2025 Arya Bhatt — Made with ❤️ and code
-</footer>
+---
 
-</div>
-</body>
-</html>
+<h2 style="color:#f5c2e7;">😂 Random Dev Meme</h2>
+
+<img src="https://i.imgflip.com/7yu8kg.jpg">
+
+---
+
+<p style="text-align:center; color:#89b4fa;">&copy; 2025 Arya Bhatt — Made with ❤️ and code</p>
