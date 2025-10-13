@@ -37,10 +37,12 @@ Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity i
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Garuda Linux](https://img.shields.io/badge/Garuda%20Linux-27AE60?style=for-the-badge&logo=garuda&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-3795D2?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-800000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bettercap](https://img.shields.io/badge/Bettercap-1E90FF?style=for-the-badge&logo=terminal&logoColor=white)
+
 
 ---
 ### ☁️ Hosting / Deployment
