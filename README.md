@@ -64,7 +64,7 @@ Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity i
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhattarya1234&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhattarya1234&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattarya1234&theme=tokyonight&hide_border=true&layout=compact)
 
----
 
 &copy; 2025 Arya Bhatt — Made with ❤️ and code
