@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Arya
+# 👋 Hey, I'm Aarya
 
 Full-stack wizard from Nepal 🇳🇵 — turning caffeine ☕ and pure chaos into code 💻
 
@@ -7,9 +7,9 @@ Full-stack wizard from Nepal 🇳🇵 — turning caffeine ☕ and pure chaos in
 ## 💼 Work & Learning
 
 - 🔭 **Currently Building:** Personal projects with **JavaScript**, **React**, **Node.js**  
-- 🌱 **Currently Learning:** **Git**, **Docker**, **Node.js** (because sleep is overrated)  
+- 🌱 **Currently Learning:** **Git**, **Docker**, **Node.js** 
 - 💬 **Ask Me About:** **JavaScript**, **React**, Backend basics  
-- ⚡ **Fun Fact:** I break things just to rebuild them 10x cooler 😎  
+- ⚡ **Fun Fact:** I break things just to rebuild them better 😎
 
 ---
 
@@ -78,7 +78,7 @@ Full-stack wizard from Nepal 🇳🇵 — turning caffeine ☕ and pure chaos in
 ## 📫 Contact Me
 
 - **Email:** bhattarya190@gmail.com  
-- **Portfolio / Projects:** [Add Your Portfolio Link]  
+- **Portfolio / Projects:** (https://bhattarya1234.github.io/Portfolio/)
 
 ---
 
