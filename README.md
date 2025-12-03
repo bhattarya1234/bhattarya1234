@@ -78,7 +78,7 @@ Full-stack wizard from Nepal 🇳🇵 — turning caffeine ☕ and pure chaos in
 ## 📫 Contact Me
 
 - **Email:** bhattarya190@gmail.com  
-- **Portfolio / Projects:** (https://bhattarya1234.github.io/Portfolio/)
+- **Portfolio:** (https://bhattarya1234.github.io/Portfolio/)
 
 ---
 
