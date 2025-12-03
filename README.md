@@ -1,21 +1,24 @@
-# 👋 Hi, I'm Arya
+# 👋 Hey, I'm Arya
 
-Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity into code 💻
+Full-stack wizard from Nepal 🇳🇵 — turning caffeine ☕ and pure chaos into code 💻
 
-<hr>
+---
 
 ## 💼 Work & Learning
 
-- 🔭 **Currently Building:** Personal projects using **JavaScript**, **React**, **Node.js**  
-- 🌱 **Currently Learning:** **Git**, **Docker**, **Node.js**  
+- 🔭 **Currently Building:** Personal projects with **JavaScript**, **React**, **Node.js**  
+- 🌱 **Currently Learning:** **Git**, **Docker**, **Node.js** (because sleep is overrated)  
 - 💬 **Ask Me About:** **JavaScript**, **React**, Backend basics  
-- ⚡ **Fun Fact:** I break things just to rebuild them better 😎  
+- ⚡ **Fun Fact:** I break things just to rebuild them 10x cooler 😎  
 
 ---
 
 ## 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#) [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](#) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](#) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)  
 
 ---
 
@@ -32,7 +35,7 @@ Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity i
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![Rainmeter](https://img.shields.io/badge/Rainmeter-19519B?style=for-the-badge&logo=rainmeter&logoColor=white)
@@ -45,8 +48,8 @@ Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity i
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Bettercap](https://img.shields.io/badge/Bettercap-1E90FF?style=for-the-badge&logo=terminal&logoColor=white)
 
-
 ---
+
 ### ☁️ Hosting / Deployment
 
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
@@ -60,16 +63,23 @@ Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity i
 ![Ngrok](https://img.shields.io/badge/Ngrok-29C1FF?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Cloudflare Temporary](https://img.shields.io/badge/Cloudflare-FF8800?style=for-the-badge&logo=cloudflare&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=bhattarya1234&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=bhattarya1234&theme=dark"></td><td width="50%" align="center">
+<img alt="GitHub Streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=bhattarya1234&theme=dark"></td>
+<td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=bhattarya1234&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-## Connect with me
+---
 
- Email: bhattarya190@gmail.com</p>
+## 📫 Contact Me
 
-&copy; 2025 Arya Bhatt — Made with ❤️ and code
+- **Email:** bhattarya190@gmail.com  
+- **Portfolio / Projects:** [Add Your Portfolio Link]  
+
+---
+
+&copy; 2025 Arya Bhatt — Built with ❤️ and borderline genius energy
