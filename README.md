@@ -61,9 +61,10 @@ Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity i
 ![Cloudflare Temporary](https://img.shields.io/badge/Cloudflare-FF8800?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhattarya1234&theme=tokyonight&hide_border=true&include_all_commits=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bhattarya1234&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=bhattarya1234&theme=tokyonight&hide_border=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattarya1234&theme=tokyonight&hide_border=true&layout=compact)  
 
