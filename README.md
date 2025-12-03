@@ -2,7 +2,7 @@
 
 Full-stack enthusiast from Nepal 🇳🇵 — turning coffee ☕ and curiosity into code 💻
 
----
+<hr>
 
 ## 💼 Work & Learning
 
